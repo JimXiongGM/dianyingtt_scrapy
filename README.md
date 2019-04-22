@@ -1,2 +1,4 @@
-# dianyingtt_scrapy
-基于scrapy框架的电影天堂网站爬取器
+# 基于scrapy框架的电影天堂网站爬取器
+
+
+## 
